@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<imgsrc="https://readmetypingsvg.herokuapp.comsize=26&duration=2500&lines=Future+Microsoft+Engineer;Passionate+about+systems+and+infra;Always+learning,+always+building" >
 </p>
 
 
