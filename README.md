@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Future+Microsoft+Engineer;Passionate+about+systems+and+infra;Always+learning,+always+building" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=University+Student;Future+Microsoft+Engineer;Focused+on+systems+and+infrastructure;Working+hard+to+make+it+real" >
 </p>
 
 
