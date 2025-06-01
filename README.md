@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm Thomas Agustín Rossi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Tomas Agustín Rossi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=University+Student;Future+Microsoft+Engineer;Focused+on+systems+and+infrastructure;Working+hard+to+make+it+real" >
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=University+Student;Eye+To+Be+a+Future+Microsoft+Engineer;Focused+on+systems+and+infrastructure" >
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
