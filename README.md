@@ -1,5 +1,13 @@
 <h1 align="center"><b>Hi , I'm Thomas Agustín Rossi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+</p>
+
+
+
+
 <!--
 **EpictetusHonor/EpictetusHonor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
